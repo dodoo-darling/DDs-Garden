@@ -8,6 +8,8 @@ tags:
   - Psychology
 ---
 INTRODUCTION
+
+
 Language is such a fascinating concept to me that not even four years of devoted study in university could answer the questions I have, nor could a single research project in my final year allow me explore all the directions I find intriguing. And no, I'm not just saying this. I literally switched the topic and research area for my undergraduate research project just a few months away from my graduation. This frustrated my supervisor deeply, but he permitted it after seeing my research proposal.
 
 The research project examined Receptive Bilingualism: the gap between what people can understand in a language and what they can actually produce in it. Following the project, I have continued to ponder on the mechanics of comprehension, and how the mind arrives at meaning with incomplete information.
