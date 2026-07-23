@@ -20,11 +20,15 @@ In doing so, an unexpected observation became apparent over the weeks. The pupil
 
 
 THE PROGRAM
+
+
 Mafaku ran a six-week literacy club across three schools, built around mini libraries stocked with books centred on African history and culture. Each school received one session a week. Every 80-minute session followed a gradual-release structure: a warm-up, a read-aloud modeled by a volunteer ("I do"), guided group discussion where the class worked through the text together ("we do"), and independent or paired reading ("you do"). Vocabulary work happened within the "we do" stage: when an unfamiliar word came up in the stories, the volunteer lead storyteller of the day explained it, contextualised it, and had the children try using it themselves.
 
 Week 3's theme was "Overcoming Obstacles," built around stories of Nigerian historical figures, including Queen Amina, chosen specifically to get children reasoning through a character's conflict rather than just following the plot.
 
 THE OBSERVATION
+
+
 During the Queen Amina session, the story included a funeral and burial scene, and the word "mourn" came up as an unfamiliar word to unpack. I was leading this session. 
 
 When we asked the children what they thought the word meant, some of the more accurate answers described it as "when you're going to bury someone." As you may know, this definition is incorrect, however it caused me to pause and say "Hmmmnnn, well...not really." They were in the right neighbourhood, but knocking at the wrong door. This kind of word meaning from context happened often during the sessions we had.
@@ -33,7 +37,8 @@ The children were able to locate the right scene and the right domain (i.e death
 
 THE RESEARCH, THE LITERATURE
 
-Yarlett, 2008, explores a concept called Similarity-Based Generalisation which describes the idea that children can figure out how to use words they've rarely encountered before by generalising about their use from distributions of similar words.
+
+Yarlett 2008, explores a concept called Similarity-Based Generalisation which describes the idea that children can figure out how to use words they've rarely encountered before by generalising about their use from distributions of similar words.
 
 This example from Brenndoerfer (2025) builds understanding of this concept.
 
@@ -59,9 +64,13 @@ This however, is not unique to humans. It formed the basis for Natural Language 
 Language models as we know today, are built on the distributional hypothesis; the same one the children at the primary school were employing. 
 
 THE END
+
+
 Observing the relatedness between a random language learning event and the foundations for AI which I use and study daily seems like a first step toward a direction that is yet unclear. I've explored research around Language, Psychology and AI over the last few months so my findings are not a surprise, they are, however, unexpected. Pleasantly. 
 
 REFERENCES
+
+
 - Brenndoerfer, M. (2025). The distributional hypothesis: Word meaning from context. In _Language AI Handbook_. [https://mbrenndoerfer.com/writing/distributional-hypothesis-word-meaning-context](https://mbrenndoerfer.com/writing/distributional-hypothesis-word-meaning-context)
 - Firth, J. R. (1957). A synopsis of linguistic theory, 1930–1955. In _Studies in Linguistic Analysis_ (pp. 1–32). Philological Society. (Reprinted in F. R. Palmer, Ed., 1968, _Selected papers of J. R. Firth, 1952–1959_, Longman)
 - Harris, Z. (1954). Distributional structure. _Word, 10_(23), 146–162. [https://doi.org/10.1080/00437956.1954.11659520](https://doi.org/10.1080/00437956.1954.11659520)
